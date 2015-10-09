@@ -1,2 +1,9 @@
-# giant_list_of_programming_resources
-A giant list of programming resources I've collected based on my interests. 
+# Giant List Of Programming Resources
+
+## General
+ https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md -- another huge list
+ 
+## Javascript
+  
+## Ruby
+  
