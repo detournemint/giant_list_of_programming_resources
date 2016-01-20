@@ -16,5 +16,6 @@
 
 ## Algorithms
   * [Algorthims in Javascript](https://www.khanacademy.org/computing/computer-science/algorithms)
+
 ## Misc
   
