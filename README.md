@@ -1,18 +1,20 @@
 # Giant List Of Programming Resources
 
 ## General
- https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md -- another huge list
- http://it-ebooks.info/ -- free PDF downloads
+ * https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md -- another huge list
+ * http://it-ebooks.info/ -- free PDF downloads
  
 ## Javascript
-  https://www.khanacademy.org/computing/computer-science/algorithms - Algorthims in Javascript
+  **Ember.js**
+   * [Ember.js Frontend + Rails Backend](http://ember.vicramon.com/)
   
 ## Ruby
-https://gorails.com/
+**Rails**
+ * [GoRails](https://gorails.com/)
 
 ## Interview Prep
 
 ## Algorithms
-  https://www.khanacademy.org/computing/computer-science/algorithms - Algorthims in Javascript
+  * [Algorthims in Javascript](https://www.khanacademy.org/computing/computer-science/algorithms)
 ## Misc
   
